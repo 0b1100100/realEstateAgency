@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-05 23:28+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: main_menu/templates/main_menu/about_us.html:4 templates/base.html:156
+msgid "About us"
+msgstr "О нас"
+
+#: main_menu/templates/main_menu/citizenship.html:4 templates/base.html:144
+msgid "Citizenship"
+msgstr "Гражданство"
+
+#: main_menu/templates/main_menu/client_request.html:4
+#: main_menu/templates/main_menu/client_request.html:16
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: main_menu/templates/main_menu/contacts.html:4 templates/base.html:154
+msgid "Contacts"
+msgstr "Контакты"
+
+#: main_menu/templates/main_menu/contacts.html:13
+msgid "Location"
+msgstr "Местоположение"
+
+#: main_menu/templates/main_menu/contacts.html:26
+msgid "Address"
+msgstr "Адрес"
+
+#: main_menu/templates/main_menu/contacts.html:29
+msgid "Company schedule"
+msgstr "График работы компании"
+
+#: main_menu/templates/main_menu/contacts.html:30
+msgid "Monday–Friday"
+msgstr "Понедельник–пятница"
+
+#: main_menu/templates/main_menu/contacts.html:31
+msgid "Hours"
+msgstr "Часы"
+
+#: main_menu/templates/main_menu/contacts.html:32
+msgid "9am–5pm"
+msgstr "с 9 утра – до 5 вечера"
+
+#: main_menu/templates/main_menu/contacts.html:33
+msgid "Phone"
+msgstr "Телефон"
+
+#: main_menu/templates/main_menu/contacts.html:35
+msgid "Email"
+msgstr "Электронная почта"
+
+#: main_menu/templates/main_menu/detail_view.html:28
+#: main_menu/templates/main_menu/rent.html:46
+msgid "per month"
+msgstr "в месяц"
+
+#: main_menu/templates/main_menu/detail_view.html:39
+msgid "Province:"
+msgstr "Провинция:"
+
+#: main_menu/templates/main_menu/detail_view.html:40
+msgid "Address:"
+msgstr "Адрес:"
+
+#: main_menu/templates/main_menu/detail_view.html:43
+msgid "District:"
+msgstr "Район:"
+
+#: main_menu/templates/main_menu/detail_view.html:55
+msgid "Bedrooms"
+msgstr "Спальни"
+
+#: main_menu/templates/main_menu/detail_view.html:64
+msgid "Floor"
+msgstr "Этаж"
+
+#: main_menu/templates/main_menu/detail_view.html:73
+msgid "Square"
+msgstr "Квадрат"
+
+#: main_menu/templates/main_menu/detail_view.html:84
+msgid "Description"
+msgstr "Описание"
+
+#: main_menu/templates/main_menu/detail_view.html:90
+msgid "Data"
+msgstr "Дата"
+
+#: main_menu/templates/main_menu/frequently_asked_questions.html:4
+msgid "FAQ"
+msgstr "Часто задаваемые вопросы"
+
+#: main_menu/templates/main_menu/medical_insurance.html:4
+#: templates/base.html:134
+msgid "Medical insurance"
+msgstr "Медицинская страховка"
+
+#: main_menu/templates/main_menu/menu.html:4
+msgid "Menu"
+msgstr "Меню"
+
+#: main_menu/templates/main_menu/menu.html:18
+msgid "Find homes and apartments from trusted SibirMax"
+msgstr "Найдите дома и квартиры от надежного SibirMax"
+
+#: main_menu/templates/main_menu/menu.html:23
+msgid "Need help finding a realtor?"
+msgstr "Нужна помощь в поиске риэлтора?"
+
+#: main_menu/templates/main_menu/menu.html:25
+msgid "Get Started"
+msgstr "Начать"
+
+#: main_menu/templates/main_menu/menu.html:43
+msgid "Why use SibirMax Real Estate Agency?"
+msgstr "Почему стоит обратиться в  агентство недвижимости SibirMax?"
+
+#: main_menu/templates/main_menu/privacy_policy.html:4 templates/base.html:150
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: main_menu/templates/main_menu/rent.html:4 templates/base.html:132
+msgid "Rent"
+msgstr "Аренда"
+
+#: main_menu/templates/main_menu/rent.html:52
+#: main_menu/templates/main_menu/sale.html:52
+msgid "ANTALYA"
+msgstr "АНТАЛЬЯ"
+
+#: main_menu/templates/main_menu/resident_card.html:4
+msgid "Resident card"
+msgstr "Карточка резидента"
+
+#: main_menu/templates/main_menu/sale.html:4 templates/base.html:130
+msgid "Sale"
+msgstr "Продажа"
+
+#: main_menu/templates/main_menu/terms_of_use.html:4
+msgid "Terms of Use Agreement"
+msgstr "Соглашение об условиях использования"
+
+#: templates/base.html:77
+msgid "Go"
+msgstr "Перейти"
+
+#: templates/base.html:87
+msgid "SALE"
+msgstr "ПРОДАЖА"
+
+#: templates/base.html:90
+msgid "RENT"
+msgstr "АРЕНДА"
+
+#: templates/base.html:93
+msgid "RESIDENT PERMIT"
+msgstr "ВИД НА ЖИТЕЛЬСТВО"
+
+#: templates/base.html:96
+msgid "MEDICAL INSURANCE"
+msgstr "МЕДИЦИНСКОЕ СТРАХОВАНИЕ"
+
+#: templates/base.html:99
+msgid "CITIZENSHIP"
+msgstr "ГРАЖДАНСТВО"
+
+#: templates/base.html:136
+msgid "Resident permit"
+msgstr "Вид на жительство"
+
+#: templates/base.html:140
+msgid "Presidency of Migration Management"
+msgstr "Президиум по управлению миграционными процессами"
+
+#: templates/base.html:142
+msgid "Antalya Metropolitan Municipality"
+msgstr "Муниципалитет Анталии"
+
+#: templates/base.html:146
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: templates/base.html:152
+msgid "Terms of Use"
+msgstr "Условия использования"
+
+#: templates/base.html:164
+msgid "STAY CONNECTED"
+msgstr "ОСТАВАЙТЕСЬ НА СВЯЗИ"

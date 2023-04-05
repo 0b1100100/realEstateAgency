@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% load static i18n %}
+
+{% block title %}{% translate 'Contacts' %}{% endblock %}
+
+{% block head_of_content %}
+<h1></h1>
+{% endblock %}
+
+{% block content %}
+
+<div>
+    <h2>{% translate 'Location' %}</h2>
+</div>
+<div>
+    <div class="contact_row" style="box-sizing: border-box;">
+        <div class="contact_column left" >
+            <div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3190.9205381311817!2d30.668982315586337!3d36.89224917021169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c3902de888ba5f%3A0xc4daec2d5e99a8be!2sMeltem%2C%20Meltem%20Blv.%20No%3A5%2C%2007030%20Muratpa%C5%9Fa%2FAntalya!5e0!3m2!1sru!2str!4v1671468758333!5m2!1sru!2str"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+        <div class="contact_column right" style="width: 600px; height: 450px;">
+            <div >
+                <div><h3>{% translate 'Address' %}</h3></div>
+                <div>Antalya, Muratpaşa, 07030</div>
+                <div>Meltem, Meltem Blv. No:5</div>
+                <div><h3>{% translate 'Company schedule' %}</h3></div>
+                <div>{% translate 'Monday–Friday' %}</div>
+                <div>{% translate 'Hours' %}</div>
+                <div>{% translate '9am–5pm'  %}</div>
+                <div><h3>{% translate 'Phone' %}</h3></div>
+                <div>+90 (532)-296-25-77</div>
+                <div><h3>{% translate 'Email' %}</h3></div>
+                <div>mergenh@yahoo.com</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+{% endblock %}
